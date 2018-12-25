@@ -1,4 +1,4 @@
-# raspberrypi_practive
+# raspberrypi_practice
 ラズパイの勉強用
 
 # マークダウンの書き方とか
