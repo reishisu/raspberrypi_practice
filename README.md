@@ -16,3 +16,6 @@ https://codechord.com/2012/01/readme-markdown/
   - https://hombre-nuevo.com/raspberrypi/raspberrypi0019/
   - https://qiita.com/t0yohei/items/f5355f8c456d9cf64679
   - https://jyn.jp/raspberrypi-username-change/
+- ファイアウォールの設定 #6
+  - https://makezine.jp/blog/2017/09/secure-your-raspberry-pi-against-attackers.html
+  - https://l-w-i.net/t/raspbian/ipv6_001.txt
