@@ -20,4 +20,6 @@ https://codechord.com/2012/01/readme-markdown/
   - https://makezine.jp/blog/2017/09/secure-your-raspberry-pi-against-attackers.html
   - https://l-w-i.net/t/raspbian/ipv6_001.txt
   - https://qiita.com/osktak/items/778287711f7ee0ccec3b
- 
+- 自動ログ送信システム #7
+  - https://qiita.com/uichi/items/03951c246faee636d0ab
+  
