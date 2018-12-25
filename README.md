@@ -9,3 +9,6 @@ https://codechord.com/2012/01/readme-markdown/
 # 参考にさせて頂いたリンクまとめ
 - SSHを公開鍵認証方式でのみできる様に設定 #3
   - https://qiita.com/3no3_tw/items/4b5975a9f3087edf4e20
+- セキュリティ関連のツールのインストール #4
+ - http://www.aircrack-ng.org/doku.php?id=downloads
+ - https://github.com/aircrack-ng/aircrack-ng
