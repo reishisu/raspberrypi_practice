@@ -19,3 +19,5 @@ https://codechord.com/2012/01/readme-markdown/
 - ファイアウォールの設定 #6
   - https://makezine.jp/blog/2017/09/secure-your-raspberry-pi-against-attackers.html
   - https://l-w-i.net/t/raspbian/ipv6_001.txt
+  - https://qiita.com/osktak/items/778287711f7ee0ccec3b
+ 
