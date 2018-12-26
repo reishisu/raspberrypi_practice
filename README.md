@@ -22,4 +22,6 @@ https://codechord.com/2012/01/readme-markdown/
   - https://qiita.com/osktak/items/778287711f7ee0ccec3b
 - 自動ログ送信システム #7
   - https://qiita.com/uichi/items/03951c246faee636d0ab
-  
+- 外付けHDDで起動させる #10
+  - https://qiita.com/mt08/items/f2e71ebf46f910acb38f
+
