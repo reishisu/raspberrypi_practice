@@ -25,3 +25,5 @@ https://codechord.com/2012/01/readme-markdown/
 - 外付けHDDで起動させる #10
   - https://qiita.com/mt08/items/f2e71ebf46f910acb38f
 
+- dein.vimをインストールして見やすくする #11
+  - 
