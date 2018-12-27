@@ -26,4 +26,4 @@ https://codechord.com/2012/01/readme-markdown/
   - https://qiita.com/mt08/items/f2e71ebf46f910acb38f
 
 - dein.vimをインストールして見やすくする #11
-  - 
+  - https://hawksnowlog.blogspot.com/2017/01/raspberrypi-with-dein-vim.html
