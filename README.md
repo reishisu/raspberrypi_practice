@@ -27,3 +27,7 @@ https://codechord.com/2012/01/readme-markdown/
 
 - dein.vimをインストールして見やすくする #11
   - https://hawksnowlog.blogspot.com/2017/01/raspberrypi-with-dein-vim.html
+- 起動時に自動でPython3のコードを実行させたい #12
+  - https://qiita.com/devzooiiooz/items/67feecf2ec8920c554ea
+  - http://enakai00.hatenablog.com/entry/20130917/1379374797
+
