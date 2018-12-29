@@ -10,7 +10,7 @@ https://codechord.com/2012/01/readme-markdown/
 - ルートディレクトリ
   - http://www.atmarkit.co.jp/ait/articles/0108/07/news002.html
 - サブディレクトリ
-  http://www.atmarkit.co.jp/ait/articles/0109/07/news002_2.html
+  - http://www.atmarkit.co.jp/ait/articles/0109/07/news002_2.html
 
 # 参考にさせて頂いたリンクまとめ
 - SSHを公開鍵認証方式でのみできる様に設定 #3
