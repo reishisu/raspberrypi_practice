@@ -36,4 +36,8 @@ https://codechord.com/2012/01/readme-markdown/
 - 起動時に自動でPython3のコードを実行させたい #12
   - https://qiita.com/devzooiiooz/items/67feecf2ec8920c554ea
   - http://enakai00.hatenablog.com/entry/20130917/1379374797
-
+- Javaサーバーサイドアプリを開発する #13
+  - https://searchman.info/java_eclipse/1030.html
+  - https://searchman.info/java_eclipse/1040.html
+  - http://www.rsch.tuis.ac.jp/~ohmi/software-basic/network4.html
+- 
