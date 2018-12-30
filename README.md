@@ -13,6 +13,9 @@ https://codechord.com/2012/01/readme-markdown/
   - http://www.atmarkit.co.jp/ait/articles/0109/07/news002_2.html
 
 # 参考にさせて頂いたリンクまとめ
+- Eclipseを使わないJavaサーブレット環境構築 #2
+  - https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1031456260
+  - https://www.k-cube.co.jp/wakaba/server/class_path.html
 - SSHを公開鍵認証方式でのみできる様に設定 #3
   - https://qiita.com/3no3_tw/items/4b5975a9f3087edf4e20
 - セキュリティ関連のツールのインストール #4
@@ -30,7 +33,6 @@ https://codechord.com/2012/01/readme-markdown/
   - https://qiita.com/uichi/items/03951c246faee636d0ab
 - 外付けHDDで起動させる #10
   - https://qiita.com/mt08/items/f2e71ebf46f910acb38f
-
 - dein.vimをインストールして見やすくする #11
   - https://hawksnowlog.blogspot.com/2017/01/raspberrypi-with-dein-vim.html
 - 起動時に自動でPython3のコードを実行させたい #12
