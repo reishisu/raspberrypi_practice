@@ -22,6 +22,7 @@ https://codechord.com/2012/01/readme-markdown/
 - セキュリティ関連のツールのインストール #4
   - http://www.aircrack-ng.org/doku.php?id=downloads
   - https://github.com/aircrack-ng/aircrack-ng
+  - https://qiita.com/toshihirock/items/1ff01a51570bf6ca4f59
 - ラズパイに新規ユーザを追加してpiユーザを無効化 #5
   - https://hombre-nuevo.com/raspberrypi/raspberrypi0019/
   - https://qiita.com/t0yohei/items/f5355f8c456d9cf64679
