@@ -44,4 +44,6 @@ https://codechord.com/2012/01/readme-markdown/
   - https://searchman.info/java_eclipse/1030.html
   - https://searchman.info/java_eclipse/1040.html
   - http://www.rsch.tuis.ac.jp/~ohmi/software-basic/network4.html
-- 
+- ローカルのNASサーバーの構築 #16
+  - https://qiita.com/rkonno/items/54b2e4b8770c8b0b2bcd
+  - http://motojapan.hateblo.jp/entry/2017/09/26/083753
