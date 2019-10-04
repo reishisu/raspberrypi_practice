@@ -47,3 +47,8 @@ https://codechord.com/2012/01/readme-markdown/
 - ローカルのNASサーバーの構築 #16
   - https://qiita.com/rkonno/items/54b2e4b8770c8b0b2bcd
   - http://motojapan.hateblo.jp/entry/2017/09/26/083753
+- LAMP環境の構築 #17
+  - https://qiita.com/s_sh/items/3fe1dc879bc9ce4d2598
+  - http://regpon.hatenablog.com/entry/2018/01/21/051340
+  - https://pig-log.com/centos-mariadb-install/
+  
